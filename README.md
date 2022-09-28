@@ -5,5 +5,5 @@
 ![Currículo no Computador](Ola_Mundo_Em_Java.png)
 
 ## Video Com a Criação do Programa
-[![Watch the video](https://youtu.be/pLQoKsSg2so)
+https://youtu.be/pLQoKsSg2so
 
